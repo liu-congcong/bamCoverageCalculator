@@ -3,7 +3,7 @@ Calculate the mean and variance of read depth across sequences.
 
 ## Usage
 ```text
-bamCoverageCalculator v1.0.1
+bamCoverageCalculator v1.0.2
 Calculate the mean and variance of read depth across sequences.
 https://github.com/liu-congcong/bamCoverageCalculator
 
