@@ -12,7 +12,7 @@ Usage:
   bamCoverageCalculator [options]
 
 Options:
-  -i    Path to the input sorted bam file
+  -b    Path to the input sorted bam file
   -o    Path to the outputCoverage file
   -t    Number of threads (default: 1)
   -r    Path to the input region file (default: none)
