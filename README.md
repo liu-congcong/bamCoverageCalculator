@@ -41,8 +41,8 @@ A tab-delimited file containing the mean and variance of read depth for each spe
 
 Each line contains five columns, with a header line.
 
-|Sequence ID|Start|End |Mean|Variance|
-|:---------:|:---:|:--:|:--:|:------:|
-|    id1    |1000 |5000|0.1 |0.2     |
-|    id2    |1000 |5000|0.2 |0.4     |
-|    id2    |3000 |6000|0.3 |0.6     |
+|`Sequence ID`|`Start`|`End`|`Mean`|`Variance`|
+|:-----------:|:-----:|:---:|:----:|:--------:|
+|     id1     | 1000  |5000 | 0.1  |   0.2    |
+|     id2     | 1000  |5000 | 0.2  |   0.4    |
+|     id2     | 3000  |6000 | 0.3  |   0.6    |
